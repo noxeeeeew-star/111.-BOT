@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "111", // required by Discord API, not shown in the client
-        state: "test",     // this is what people actually see
+        name: "NOXEEEEE BOT", // required by Discord API, not shown in the client
+        state: "PLAYING VALO",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
