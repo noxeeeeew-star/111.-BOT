@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "NOXEEEEE BOT", // required by Discord API, not shown in the client
-        state: "PLAYING VALO",     // this is what people actually see
+        state: "I'm a consultant. I'm not above or below. I am to the side.",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
